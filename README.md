@@ -1,6 +1,6 @@
 # Simple-Dictionary-App
 
-##this is Simple Dictionary App   
+### this is Simple Dictionary App   
 ``Dictionary<String:String>``
 ```
     [ "Boy":"Wiil", 
