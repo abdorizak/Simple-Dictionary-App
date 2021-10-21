@@ -1,9 +1,16 @@
 # Simple-Dictionary-App
 
-###this is Simple Dictionary App   
+##this is Simple Dictionary App   
 ``Dictionary<String:String>``
 ```
-    [ "Boy":"Wiil", "Girl":"Gabar", "Tree":"Geed", "Street":"Wado", "Car":"Baabur", "Gift":"Hadiyad", "Window":"Daaqad","Dog":"Ey"
+    [ "Boy":"Wiil", 
+    "Girl":"Gabar", 
+    "Tree":"Geed", 
+    "Street":"Wado", 
+    "Car":"Baabur", 
+    "Gift":"Hadiyad", 
+    "Window":"Daaqad",
+    "Dog":"Ey"
     ]
 ```
 the first key is string and value is also string
